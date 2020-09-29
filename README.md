@@ -4,7 +4,7 @@
 
 ### Algorithm
 
-每周至少做一个Leetcode的算法题。主要是为了编写训练和学习。如果不训练你看再多的算法书，你依然不会做算法题。做Leetcode的优势
+每周至少做一个Leetcode的算法题。主要是为了编写训练和学习。如果不训练你看再多的算法书，你依然不会做算法题。[做Leetcode的优势](https://coolshell.cn/articles/12052.html)
 
 
 
